@@ -4,7 +4,7 @@
 
 Проекты в основном представлены в виде файлов, подготовленных в Jupyter Notebook на языке Python.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |	
+| Название проекта | Описание проекта | Используемый стек | 
+| ------------- | ------------- | ------------- |
+| [A/B-тест в крупном интернет-магазине](https://github.com/shipilovstas/Portfolio_DA/tree/main/A-B_test_online_store)  | test  | Content Cell  |
+| Content Cell  | Content Cell  |	Content Cell  |
