@@ -18,3 +18,4 @@
 | [Исследование поведения пользователей музыкального приложения](https://github.com/shipilovstas/Portfolio_DA/tree/main/User_behavior_research)  | Предобработка данных и проверка гипотез.  |	`pandas` `matplotlib.pyplot` |
 | [История TED-конференций](https://public.tableau.com/app/profile/stanislav.shipilov/viz/ProjectTEDHistory/TED-)  | Создание дашбоардов с историей, тематикой, авторами выступлений и категориями конференций. |	`Tableau`  |
 | [Анализ базы данных сервиса для чтения книг](https://github.com/shipilovstas/Portfolio_DA/tree/main/Analysis_of_the_database_of_the_book_reading_service)  | Анализ базы данных с целью формулировки ценностного предложения для нового продукта. |	`SQL`  |
+| [DonorSearch. Кластеразация пользователей](https://github.com/shipilovstas/Portfolio_DA/tree/main/Clustering_of_users)  | Определение строгих правил и разделение по ним доноров на группы |	`pandas` `matplotlib.pyplot` `numpy` `scipy.stats` `datetime` `seaborn`  |
